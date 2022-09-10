@@ -1,0 +1,218 @@
+div{
+    
+    position: relative;
+    width: 1000px;
+    height: 1870px;
+    background: white;
+}
+header{
+    position: absolute;
+    width: 1000px;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    background: white;
+}
+.conteiner{
+    position: absolute;
+    background: url(../img/logovivo1.png);
+   width: 301px;
+   height: 29px;
+   left: 349px;
+   top: 30px;
+}
+.banner{
+    background: url(../img/Banner.png);
+    position: absolute;
+width: 1000px;
+height: 300px;
+left: 0px;
+top: 90px;
+}
+.t1{
+    position: absolute;
+    width: 810px;
+    height: 92px;
+    left: 95px;
+    top: 400px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    text-align: center;
+    color: #666666;
+}
+.botao1{
+    position: absolute;
+    width: 203px;
+    height: 23px;
+    left: calc(50% - 203px/2 - 0.5px);
+    top: 560px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #660099;
+}
+.risco{
+    position: absolute;
+width: 114px;
+height: 0px;
+left: 445px;
+top: 646px;
+
+border: 1px solid #BDBDBD;
+
+}
+.t2{
+    position: absolute;
+width: 882px;
+height: 456px;
+left: 59px;
+top: 696px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 141.2%;
+color: #666666;
+}
+.CTA{
+    position: absolute;
+    width: 619px;
+    height: 53px;
+    left: 190px;
+    top: 1260px;
+    background: #660099;
+    border-radius: 5px;
+}
+a{
+    position: absolute;
+    width: 562px;
+    height: 18px;
+    left: calc(50% - 562px/2 - 0.5px);
+    top: calc(50% - 18px/2 - 0.5px);
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.frame{
+    position: absolute;
+    width: 885px;
+    height: 456px;
+    left: 57px;
+    top: 1348px;
+
+    background: white;
+}
+.logovivo{
+   background: url(../img/logovivo2.png); 
+   position: absolute;
+   width: 274px;
+   height: 26.4px;
+   left: 305px;
+   top: 0px;
+}
+.logotwiter{
+    background: url(../img/logoTwiter\ \(1\).png);
+    position: absolute;
+width: 22.2px;
+height: 18.05px;
+left: 363px;
+top: 57.32px;
+
+}
+.logoinsta{
+    background: url(../img/logoinsta.svg);
+    position: absolute;
+width: 20.35px;
+height: 20.34px;
+left: 401.86px;
+top: 56.41px;
+}
+.logoface{
+    background: url(../img/logoFace.svg);
+    position: absolute;
+width: 20.35px;
+height: 20.35px;
+left: 439.79px;
+top: 56.4px;
+}
+.logoyou{
+    background: url(../img/logoYoutube.svg);
+    position: absolute;
+    width: 22.2px;
+    height: 15.64px;
+    left: 476.8px;
+    top: 59.17px;
+}
+.t3{
+    position: absolute;
+    width: 880px;
+    height: 18px;
+    left: 0px;
+    top: 107px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 141.2%;
+    
+    text-align: center;
+    letter-spacing: 1px;
+    
+    color: #000000;
+}
+.group{
+    background: url(../img/logo3.png);
+    position: absolute;
+width: 277px;
+height: 134.06px;
+left: 306px;
+top: 171px;
+}
+.t4{
+position: absolute;
+width: 880px;
+height: 105px;
+left: 3px;
+top: 371px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 141.2%;
+
+text-align: center;
+letter-spacing: 1px;
+
+color: #000000;
+}
+.botao2{
+    position: relative; 
+    width: 880px;
+    height: 105px;
+    left: 0px;
+    top: 0px;
+
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 141.2%;
+
+    color: #000000;
+}
